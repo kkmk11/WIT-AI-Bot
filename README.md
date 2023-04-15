@@ -1,0 +1,2 @@
+# WIT-What-is-This-_Bot
+WIT(What is This)_bot is a AI telegram bot that predicts the images(Other then Humans) using the ResNet50.
